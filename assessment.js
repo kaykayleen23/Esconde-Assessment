@@ -11,7 +11,7 @@ function isPalindrome(str) {
 }
 
 //input
-let input = "a man, a plan. a canal panama";
+let input = "eye";
 
 //call function
 let result = isPalindrome(input);
